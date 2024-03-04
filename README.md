@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://cdn.discordapp.com/attachments/1214021858354004018/1214021889673142272/IHm8fiO.png?ex=65f798fd&is=65e523fd&hm=547371283e05c876824187c4cb149f978e34832e9461811d79d58a9df9b20b2a&)https://cdn.discordapp.com/attachments/1214021858354004018/1214021889673142272/IHm8fiO.png?ex=65f798fd&is=65e523fd&hm=547371283e05c876824187c4cb149f978e34832e9461811d79d58a9df9b20b2a&" width="100"/>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=bionicreject&label=TIMES+STALKED&style=for-the-badge)
